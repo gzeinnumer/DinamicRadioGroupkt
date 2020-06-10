@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="websites_array">
+        <item>Yahoo</item>
+        <item>Hotmail</item>
+        <item>Gmail</item>
+        <item>Facebook</item>
+        <item>Other</item>
+    </string-array>
+</resources>
